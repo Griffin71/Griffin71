@@ -1,4 +1,4 @@
-#whyDidGitHubDoThis4me????
+# whyDidGitHubDoThis4me????
 - 👋 Hi, I’m @Griffin71
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning IT.
