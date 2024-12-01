@@ -1,8 +1,8 @@
 # whyDidGitHubDoThis4me????
 - 👋 Hi, I’m @Griffin71
-- 👀 I’m interested in programming.
-- 🌱 I’m currently learning IT.
-- 💞️ I’m looking to collaborate on my current project.
+- 👀 I’m a programmer.
+- 🌱 I’m currently going futher into back-end.
+- 💞️ I’m looking to collaborate on any project.
 - 📫 How to reach me : kabelosamkelo19@gmail.com
 - 😄 Pronouns: bro, im straight as a ruler.(Male)
 - ⚡ Fun fact: ... Peter from Family is based of, of me!
